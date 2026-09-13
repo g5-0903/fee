@@ -1,0 +1,17 @@
+Q1. What is DOM ?
+Ans. DOM is Document Object Manipulation.  
+->   It represents the structure of a webpage as a tree, allowing JavaScript to access and change elements dynamically.
+
+Q2. What are 5 DOM Manipulation functions?
+Ans. getElementById(), querySelector(), createElement(), appendChild(), removeChild().
+
+Q3. What is the meaning of asynchronous operations?
+Ans. Asynchronous operations run in the background without blocking other code.
+->   They allow tasks like fetching data or timers to finish later while the program keeps going.
+
+Q4. What is virtual DOM?
+Ans. The Virtual DOM is a lightweight copy of the real DOM used by libraries like React.
+
+Q5. How React responds fast to user actions?
+Ans. React responds fast by using the Virtual DOM to compare changes.
+->   It applies only minimal updates to the real DOM, avoiding slow full-page reloads.
