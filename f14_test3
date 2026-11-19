@@ -1,24 +1,49 @@
-React Summary
-React builds fast, interactive UI using reusable components.
+1.------REACT------
+Keyword: Component-Based UI
 
 React is a JavaScript library used to make interactive user interfaces for web applications.
 It helps us build reusable components and update the webpage without reloading the whole page.
 This is called a single page application, where users can move between different pages easily.
-React works on server and gives faster response.
 
 
-JAVASCRIPT
+2.------JAVASCRIPT------
 Keyword: Logic Building
 
 JavaScript is a programming language used to add logic to websites.
 It helps us perform calculations, make decisions, handle events and control how a website works.
 
 
-UI
+3.------UI------
 Keyword: Visual Interaction Layer
 
 UI (User Interface) is the visual part of a website that users interact with.
 It includes buttons, images, text and forms, making it easier for users to use the application.
+
+
+4.------COMPONENTS-------
+Keyword: Reusable UI Blocks
+
+React App is a collection of components.
+Each component handles a particular part of the webpage, like a navbar, button or login form. 
+We can reuse the same component wherever needed.
+
+
+5.------PROPS------
+Keyword: Data Passing
+
+Props are used to pass data from one component to another. 
+Props act like function parameters. 
+Pass data as key-value pairs when calling a component.
+They help us share information, like names, images or other details, between components. 
+
+
+6.------STATE------
+Keyword: Changing Data
+
+State is used to store information in a component. 
+When the state changes, React updates the webpage automatically. 
+For example, changing a counter value or showing and hiding a form.
+
 
 
 
