@@ -1,0 +1,24 @@
+React Summary
+React builds fast, interactive UI using reusable components.
+
+React is a JavaScript library used to make interactive user interfaces for web applications.
+It helps us build reusable components and update the webpage without reloading the whole page.
+This is called a single page application, where users can move between different pages easily.
+React works on server and gives faster response.
+
+
+JAVASCRIPT
+Keyword: Logic Building
+
+JavaScript is a programming language used to add logic to websites.
+It helps us perform calculations, make decisions, handle events and control how a website works.
+
+
+UI
+Keyword: Visual Interaction Layer
+
+UI (User Interface) is the visual part of a website that users interact with.
+It includes buttons, images, text and forms, making it easier for users to use the application.
+
+
+
